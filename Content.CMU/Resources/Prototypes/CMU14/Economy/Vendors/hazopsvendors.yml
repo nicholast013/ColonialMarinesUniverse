@@ -465,6 +465,7 @@
       choices: { CMUSpecialAmmo: 2 }
       entries:
       - id: CMMagazineRifleM54CAP
+      - id: RMCMagazineRifleM54CIncendiary
       - id: RMCMagazineRifleM54CWP
 
 - type: entity
